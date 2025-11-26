@@ -1,0 +1,5 @@
+{
+  "name": "Copy of LexiFind - English Word Pattern Search",
+  "description": "An educational tool to find English words based on letter combinations, categorized by position (start, middle, end) and difficulty level.",
+  "requestFramePermissions": []
+}
